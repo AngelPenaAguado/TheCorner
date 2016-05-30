@@ -1,2 +1,2 @@
 ## El meu projecte
-Aquest
+Aquest projecte és una proba per veure com funciona Git i Github.
